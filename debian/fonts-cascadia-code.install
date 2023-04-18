@@ -1,0 +1,3 @@
+ttf/static/*.ttf usr/share/fonts/truetype/cascadia-code/
+ttf/*.ttf usr/share/fonts/truetype/cascadia-code/
+otf/static/*.otf usr/share/fonts/opentype/cascadia-code/
